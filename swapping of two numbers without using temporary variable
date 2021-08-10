@@ -7,6 +7,6 @@ scanf("%d %d",&a,&b);
 a=a+b;
 b=a-b;
 a=a-b;
-printf("values of a and b after swaping",a,b);
+printf("values of a %d and b %d after swaping",a,b);
 return 0;
 }
